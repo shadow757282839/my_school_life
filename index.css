@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+}
+a{
+	position: absolute;
+	top:30px;
+	right: 30px;
+	color: red;
+}
+.div1{
+	height:300px;
+	width:200px;
+	position: absolute;
+	top:30%;
+	left: 45%;
+}
+h5{
+	position: absolute;
+	left:26%;
+}
+#btn1{
+	margin-left:20%;
+}
+body{
+	background-image: url("images/background.jpg");
+}
